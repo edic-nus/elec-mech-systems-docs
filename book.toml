@@ -1,0 +1,18 @@
+[book]
+authors = ["Jasshan Kumeresh"]
+language = "en"
+multilingual = false
+src = "src"
+title = "NUS RM: Robot Systems"
+
+[preprocessor]
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+[output]
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
+default-theme = "ayu"
+preferred-dark-theme = "ayu"
