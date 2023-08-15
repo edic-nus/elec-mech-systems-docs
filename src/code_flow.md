@@ -6,4 +6,10 @@ Your code content will be heavily dependent on the type of hardware you're using
 
 For the sake of this book, here's an example of the last option for our Basic Bot:
 
-![code_flow_image](./img/picture.png)
+![code_flow_image](./img/simple_code_flow.png)
+
+Flow diagrams can also be used to describe error messages along with code flow: 
+
+![error_message_image](./img/code_flow_w_error.png)
+
+> At the end of the day, the goal of **any** diagram is to communicate with other people (including your future self). There is no reason to make a diagram more verbose than it needs to be, but it shouldn't be so simple it serves no purpose either than to look pretty. First decide who you are communicating to and all other details will fall in place. 
