@@ -39,7 +39,7 @@ display: block;
 width: 50%;
 margin-left: auto;
 margin-right: auto;" 
-src="./img/mounted_motor.jpg">
+src="./img/mounted_motor.png">
 
 > Mounted motor 
 
