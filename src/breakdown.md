@@ -1,5 +1,5 @@
 # The basic basic bot
-Taking everything about the description of the bot, 
+Taking everything about the description of the bot 
 
 >There are many ways we can accomplish this task. In an effort to keep things simple, we will be going through a 4 wheeled robot, with 2 of its wheels driven. It will also have an ultrasonic sensor attached to it's front for presence detection.
 
