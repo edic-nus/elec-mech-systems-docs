@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-08-21T08:58:00.912Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/114.0.5735.106 Electron/25.1.1 Safari/537.36" etag="ZMJiF_GKWwvoqz2os_l7" version="21.2.8" type="device" pages="4">
+<mxfile host="Electron" modified="2023-08-21T09:12:31.595Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/114.0.5735.106 Electron/25.1.1 Safari/537.36" etag="1zsJfOHU-9fRbWG6DvWh" version="21.2.8" type="device" pages="4">
   <diagram id="-Cl7fdibUPo9CbiZJZZQ" name="basic_basic_bot">
     <mxGraphModel dx="1432" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,10 +226,10 @@
         <mxCell id="-f2Q3qpEduiegCBTkDEY-29" value="L298N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="162" y="184.5" width="95" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-f2Q3qpEduiegCBTkDEY-30" value="Motor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-f2Q3qpEduiegCBTkDEY-30" value="DC&lt;br&gt;motor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="62" y="144.5" width="45" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-f2Q3qpEduiegCBTkDEY-31" value="Motor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-f2Q3qpEduiegCBTkDEY-31" value="DC motor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="62" y="224.5" width="45" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-f2Q3qpEduiegCBTkDEY-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" edge="1" parent="1" source="-f2Q3qpEduiegCBTkDEY-34" target="-f2Q3qpEduiegCBTkDEY-29">
