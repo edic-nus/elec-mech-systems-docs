@@ -1,6 +1,6 @@
 # Choosing a battery 
 The following steps are general guideline on how to choose a battery in a system (if needed): 
-1. Find the maximum voltage level.
+1. Find the minimum and maximum voltage level.
 2. Find the maximum current draw and mean current draw.
 3. Specify how much space is available for the battery.
 4. Specify the operation time of the system. 
@@ -16,7 +16,7 @@ In addition to this, the following rules should also be followed:
 1. Do not stab batteries. 
 2. Do not drop batteries from high places. 
 3. Do not throw batteries. 
-4. Do not leave batteries unattended while charging. 
+4. Do not leave batteries unattended while charging (that includes charging overnight!). 
 5. Do not heat up batteries or charge them on a surface where heat can build up (a bed). 
 6. Do not over-discharge batteries past their capacity limit, such as by leaving the battery connected to the system while it continously drains it. 
 7. Do not over-charge batteries while charging, either measure the battery voltage periodically or use a battery charger which automatically stops charging when the desired capacity is reached. 

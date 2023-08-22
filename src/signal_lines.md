@@ -1,9 +1,15 @@
+# Logic level
+In the context of digital devices, we refer to the level the device runs as the **logic level**. For example, the STM32F103 runs at a logic level of 3.3V. However, it is capable of accepting voltages of up to 5V on its voltage input pin. 
+
+When connecting the communication (signal) lines of two devices with different logic levels, a logic level shifter **might** be required. The need for one can be discerned by combing through the datasheets for both devices to find the voltage level where "ON" and "OFF" states are registered. Additionally, certain 3.3 V devices have 5 V tolerant pins, allowing you to at least have one-way communication from the 5 V device to the 3.3 V device without any additional hardware. 
+
+
 # Is it all just 1s and 0s? 
 The goal of a signal line/wire is to allow some form of communication between two devices. There are a multitude of ways to communicate via a single wire, and even more ways when more a single wire is available.
 
 In digital circuits, our communication medium will also be digital. This means that both the sending and the receiving end can only communicate via 2 states, low or high. As such, both sender and receiver needs to be aware of how they are going to be communicating over this line. This is called a **communication protocol**. 
 
-# Serial 
+## Serial 
 As you may expected, there are lots of different types of communication protocols, but the most fundament (in my opinion) of all of them is serial communication, also referred to as UART (Universial Asynchronous Receiver-Transmitter). 
 
 It consists of 2 wires, excluding ground. It has a receiver and transmit wire, RX and TX for short, and is wired up as shown in the diagram below: 
