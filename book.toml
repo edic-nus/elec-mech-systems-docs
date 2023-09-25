@@ -3,7 +3,7 @@ authors = ["Jasshan Kumeresh"]
 language = "en"
 multilingual = false
 src = "src"
-title = "NUS RM: Robot Systems"
+title = "EDIC WS: Electro-Mechanical Systems"
 
 [preprocessor]
 

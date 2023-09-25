@@ -4,6 +4,7 @@
 - [Basic bot](./the_basic_bot.md)
     - [Breakdown](./breakdown.md)
     - [Motors and their drivers](./motors_n_drivers.md)
+    - [Sensors](./sensors.md)
     - [Mounting](./mounting.md)
     - [Code flow](./code_flow.md)
 - [Activity I - Robot vacuum](./activity_I_robot_vacuum.md)
@@ -15,6 +16,4 @@
     - [Wiring](./wiring.md)
     - [RTOS](./rtos.md)
 - [Activity II - Gimbal](./activity_II_gimbal.md)
-- [Competition requirements](./rules.md)
-- [Activity III - Light bar](./activity_III_light_bar.md)
 
